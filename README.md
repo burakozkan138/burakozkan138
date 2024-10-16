@@ -44,10 +44,16 @@
 ###
 
 <div align="left">
-  <a href="burakozkan138@gmail.com" target="_blank">
+  <a href="mailto:burakozkan138@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/burakozkan138/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>  
+  <a href="https://burakozkan.live" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+      alt="Portfolio logo" />
   </a>
 </div>
